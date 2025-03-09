@@ -1,4 +1,3 @@
-![Screenshot_20250201-141331](https://github.com/user-attachments/assets/2df42fcb-9779-4599-bdaf-374601b88ddc)# smartp
 ![image](https://github.com/user-attachments/assets/780c5835-8c51-4e92-9d99-6e06ed0edac0)
 
 A new Flutter project.
